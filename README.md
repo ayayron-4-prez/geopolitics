@@ -1,2 +1,2 @@
-# geopolitics
-My insights on hot, geopolitical topics.
+# Geopolitics
+- My personal, unbiased insights on hot, geopolitical topics.
